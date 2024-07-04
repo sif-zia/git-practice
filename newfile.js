@@ -1,5 +1,5 @@
 console.log("Hi!");
 console.log("test");
-console.los("wow");
+console.los("wowdsjkf");
 
 console.log(Hey);
