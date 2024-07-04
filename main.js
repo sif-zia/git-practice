@@ -22,3 +22,8 @@ button.addEventListener('mousemove', () => {
   button.style.left = `${newPosition.x}px`;
   button.style.top = `${newPosition.y}px`;
 });
+
+// Event listener for click event to show the alert
+button.addEventListener('click', () => {
+  alert("Congratulations! You caught me. :)");
+});
